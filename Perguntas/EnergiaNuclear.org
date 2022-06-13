@@ -1,0 +1,19 @@
+#+title: Energia Nuclear
+
+* História
+- 1951L EBR-I, 4 lâmpadas.
+- Chegou a fornecer energia suficiente para a construção
+- 1964 desativado
+** Primeiro uso industrial
+- Obninsk, AM-I, URSS.
+** Energia de submarino USS Nautilus
+** Década de 50
+- Proof of concepts.
+** Brasil
+- Angra 1
+
+* Tecnologia de reatores alternativos
+- Reator a Sal Derretido.
+
+* Perguntas
+  - Por que utilizar sódio, em reatores a sal derretido?

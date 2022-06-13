@@ -1,0 +1,71 @@
+:REVEAL_PROPERTIES:
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_REVEAL_JS_VERSION: 4
+#+REVEAL_THEME: sky
+# #+REVEAL_EXTRA_CSS: ./css/blood.css
+#+REVEAL_EXTERNAL_PLUGINS: (spotlight "js/spotlight.js" "plugin/spotlight.js")
+#+REVEAL_EXTRA_SCRIPT_SRC: ./js/caption.js
+#+REVEAL_PLUGINS: (highlight)
+#+REVEAL_HIGHLIGHT_CSS: https://cdn.jsdelivr.net/npm/reveal.js@4.2.0/plugin/highlight/monokai.css
+#+OPTIONS: reveal_global_footer:t
+#+OPTIONS: timestamp:nil toc:2 num:nil
+:END:
+
+# #+REVEAL_EXTERNAL_PLUGINS: (spotlight . "js/spotlight.js") (spotconf
+# . "plugin/spotlight.js")
+
+# #+startup: latexpreview
+# #+startup: imagepreview
+
+# #+title: Produção Enxuta
+#+TITLE: Produção de Energia por Algas
+#+AUTHOR: Pedro Branquinho
+#+OPTIONS: toc:nil
+* Historia
+#+ATTR_REVEAL: :frag (highlight-current-red)
+- Descoberta, contexto histórico, proporções de cresimento
+* Obtenção de energia com algas
+** Resumo
+#+ATTR_REVEAL: :frag (highlight-current-green)
+- Estrutura menos complexa.
+- Maior taxa de crescimento.
+- Alto teor oleaginoso.
+- Maior pureza bioquimica.
+
+** Escolha da microalga
+Segundo Mata el al (2009):
+#+begin_quote
+#+ATTR_REVEAL: :frag (highlight-current-appear)
+- Boa taxa de crescimento.
+- Resistência à mudanças de condições climáticas.
+- Facilidade de separação de biomassa.
+- Possibilidade de obtenção de subprodutos de interesse industria.
+#+end_quote
+
+** Cultivo da microalga
+*** Dinâmica $CO_2$ e $O_2$
+#+ATTR_REVEAL: :frag (highlight-current-green)
+- As microalgas são alimentadas com nutrientes e $CO_2$.
+- Há a reprodução delas e liberação de $O_2$.
+- Retira-se o O2, e o cultivo  passa pelo processo de "engorda".
+*** Cultivo a céu aberto (Raceway ponds)
+#+ATTR_REVEAL: :frag (highlight-current-green)
+- canal de circuito fechado de recirculação.
+- cultura é alimentada continuamente na frente da roda de pás.
+- roda de pás que opera o tempo todo para impedir a sedimentação.
+- Alta contaminação.
+- Maior consumo de água.
+*** Esquemática do cultivo (Raceway ponds)
+#+ATTR_REVEAL: :frag (highlight-current-green)
+- Cultivo em fotobiorreatores.
+- Tubos transparentes  montados e alinhados em postos.
+- Diâmetro do tubo é limitado porque a luz não penetra tão profundamente na cultura.
+- Chão embaixo do coletor solar é branco para.
+- Aumentar a refletância.
+* Processo de obtenção de energia da alga
+* Como funciona uma plantação de algas 
+* Economia
+* Pros e Contras
+* Contexto no mundo e no Brasil
+* Perspectiva para o futuro
+* Desafios

@@ -1,0 +1,36 @@
+#+title: Literatura
+
+* Artigos e revisões da literatura
+1. Composition, properties and challenges of algae biomass for biofuel application: An overview (2016)
+   + https://www.sciencedirect.com/science/article/pii/S001623611630271X
+   + PDF: https://drive.google.com/file/d/1gBc3om2ZvCRNKb4CxdQhfBuG1KVu-n1v/view?usp=sharing
+2. Biofuels from algae: challenges and potential (2010/2014)
+   + https://www.tandfonline.com/doi/abs/10.4155/bfs.10.44
+   + PDF: https://drive.google.com/file/d/1L3j5f-9rKnIB1bc8e_LBTEsDqSGIUZRQ/view?usp=sharing
+3. An Overview of Algae Biofuel Production and Potential Environmental Impact (2012)
+   + https://pubs.acs.org/doi/abs/10.1021/es300917r
+4. A realistic Technology and Engineering Assessment of Algae Biofuel Production (2010)
+   + https://digitalcommons.calpoly.edu/cenv_fac/188/
+   + PDF: https://drive.google.com/file/d/1-BNOe1wGAxkIwZNn4d1_7iUJ1a70ddQi/view?usp=sharing
+5. Algae biofuel: Current status and future applications (2018)
+   + https://www.sciencedirect.com/science/article/pii/S1364032118301552
+   + PDF: https://drive.google.com/file/d/17eK82H-RAbq4n-tHoTcdETQCCmMIwOIf/view?usp=sharing
+6. The potential of sustainable algal biofuel production using wastewater resources (2010/2011)
+   + https://www.sciencedirect.com/science/article/pii/S0960852410010163
+   + PDF: https://drive.google.com/file/d/1L3j5f-9rKnIB1bc8e_LBTEsDqSGIUZRQ/view?usp=sharing
+7. A review of the harvesting of micro-algae for biofuel production (2012/2013)
+   + https://link.springer.com/article/10.1007/s11157-012-9301-z
+   + PDF: https://drive.google.com/file/d/18WoGlewXu3_f11CVR-wNE3l2wPiwLtQo/view?usp=sharing
+
+* Tabela de escolha
+|--------+----------|
+| Artigo | Aluno(a) |
+|--------+----------|
+|      1 |          |
+|      2 |          |
+|      3 |          |
+|      4 |          |
+|      5 |          |
+|      6 |          |
+|      7 |          |
+|--------+----------|

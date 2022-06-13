@@ -1,0 +1,9 @@
+#+title: Datas
+
+* Apresentações
+- 01/06: Grupo 5
+- 08/06: Grupo 1
+- 15/06: Grupo 6
+- 22/06: Grupo 2
+- 29/06: Grupo 3
+- 06/07: Grupo 4
