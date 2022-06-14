@@ -21,6 +21,7 @@
 #+TITLE: Produção de Energia por Algas
 #+AUTHOR: Diego S. Durce,  Larissa C. Coelho,  Pedro G. Branquinho,  Rafael G. Cutait,  Tiago M. R. Nagata,  Vinicius A. Piunti
 #+OPTIONS: toc:nil
+# #+REVEAL_HLEVEL: 2
 
 # #+HTML: <div class="fancy-area">
 # #+HTML:     <div class="fancy"></div>
@@ -259,10 +260,102 @@ Impact (2012)
 
 #+HTML: <div class="citation">
 Fonte: https://www.globalpetrolprices.com/USA/diesel_prices/
-Impact (2012)
+#+HTML: </div>
+** Global Algae Innovations
+#+ATTR_REVEAL: :frag (grow)
+[[file:Godoi/images/image1.jpg][file:./Godoi/images/image1.jpg]]
+
+#+ATTR_REVEAL: :frag (highlight-current-red)
+- Podem substituir grande parte da alimentação animal, reduzindo a produção de rações e, consequentemente, o desmatamento e o aquecimento global;
+- Reduzem o aquecimento global por retirar o CO2 da atmosfera durante a produção;
+#+HTML: <div class="citation">
+Fonte: https://youtu.be/yCNkmi7VE0I (set. 2016)
 #+HTML: </div>
 
-* Pros e Contras
-* Contexto no mundo e no Brasil
-* Perspectiva para o futuro
+** Global Algae Innovations
+#+ATTR_REVEAL: :frag (grow)
+[[file:Godoi/images/image1.jpg][file:./Godoi/images/image1.jpg]]
+
+#+ATTR_REVEAL: :frag (highlight-current-red)
+- São capazes de produzir 40 vezes mais alimento por Acre, ou seja, plantando 1000 acres de alga, 40 mil acres de culturas que não precisam ser plantadas;
+- Custos muito altos durante o processo, principalmente quando se trata de produção em larga escala;
+- No começo, um galão custaria em torno de $30,00, agora, se espera um custo de $2,00 a $3,00 o galão;
+#+HTML: <div class="citation">
+Fonte: https://youtu.be/yCNkmi7VE0I (set. 2016)
+#+HTML: </div>
+
+** Istambul, Turquia
+- Financiado pelo governo e união europeia.
+- Biocombustível e outras tecnologias.
+- Macroalga e microalga.
+- Localização: campus da Universidade Bogazici.
+- 2.500 metros quadrados.
+- Aproximadamente 1.200 toneladas de massa de algas úmidas por ano.
+*** A planta
+
+** Redução do custos
+*** Trends - Cultivo e Processamento
+#+CAPTION: Redução do custos de cultivo e processamento em dólares por kg (2022)
+#+ATTR_REVEAL: :frag (grow)
+[[file:Godoi/images/image1.jpg][file:./Godoi/images/image3.jpg]]
+*** Trends - Custo Energético
+#+CAPTION: Custo energético de produção em MJ/kg (2022)
+#+ATTR_REVEAL: :frag (grow)
+[[file:Godoi/images/image1.jpg][file:./Godoi/images/image2.jpg]]
+
+* TODO Pros e Contras
+* Estudo de casos (Contexto, mundo e Brasil)
+** Sapphire Energy - Califórnia, Estados Unidos.
+#+ATTR_REVEAL: :frag (highlight-current-red)
+- Dos anos 2007 a 2009 mais de 250 milhões de dólares investidos.
+- 2009 - forneceu cinquenta galões de combustível para um =Toyota Prius= híbrido, que atravessou o estados unidos.
+- 2009 - forneceu combustível para o primeiro voo usando combustível derivado de algas.
+- 2017 - empresa foi vendida.
+** Solix - Califórnia, Estados Unidos
+#+ATTR_REVEAL: :frag (highlight-current-red)
+- 2006 - fundação.
+- 2009 - início dos investimentos em combustível a partir da alga.
+- 2012 - construção da usina de biomassa.
+- 2021 - doação da pela Força Aérea dos EUA para ajuda nos experimentos para fazer combustível para aviação.
+** Instambul, Tuquia
+#+begin_quote
+Primeira biorrefinaria de grande escala na Europa a transformar algas em combustíveis
+#+end_quote
+
 * Desafios
+** Tabela comparativa
+**
+:PROPERTIES:
+:reveal_background: ./img/i1.jpeg
+:reveal_background_opacity: 1
+:END:
+#+ATTR_REVEAL: :frag (grow)
+#+ATTR_HTML: :height 100% :align center
+[[file:Godoi/images/image1.jpg][file:./img/i1.jpeg]]
+** Resumo da tabela
+#+ATTR_REVEAL: :frag (highlight-current-red)
+- Tecnologia.
+- Conhecimento científico.
+- Colheita.
+- Alto custo.
+** Comment d
+#+ATTR_REVEAL: :frag (grow)
+[[file:Godoi/images/image1.jpg][file:./img/i2.jpeg]]
+
+**
+#+ATTR_REVEAL: :frag (grow)
+[[file:Godoi/images/image1.jpg][file:./img/i3.jpeg]]
+
+**
+#+ATTR_REVEAL: :frag (grow)
+[[file:Godoi/images/image1.jpg][file:./img/i4.jpeg]]
+
+**
+#+ATTR_REVEAL: :frag (grow)
+[[file:Godoi/images/image1.jpg][file:./img/i5.jpeg]]
+
+**
+#+ATTR_REVEAL: :frag (grow)
+[[file:Godoi/images/image1.jpg][file:./img/i6.jpeg]]
+* Perspectiva para o futuro
+* Perguntas?
