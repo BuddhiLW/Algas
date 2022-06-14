@@ -1,8 +1,8 @@
 :REVEAL_PROPERTIES:
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
 #+REVEAL_REVEAL_JS_VERSION: 4
-#+REVEAL_THEME: sky
-# #+REVEAL_EXTRA_CSS: ./css/blood.css
+# #+REVEAL_THEME: sky
+#+REVEAL_EXTRA_CSS: ./css/sky.css
 #+REVEAL_EXTERNAL_PLUGINS: (spotlight "js/spotlight.js" "plugin/spotlight.js")
 #+REVEAL_EXTRA_SCRIPT_SRC: ./js/caption.js
 #+REVEAL_PLUGINS: (highlight)
@@ -21,12 +21,16 @@
 #+TITLE: Produção de Energia por Algas
 #+AUTHOR: Pedro Branquinho
 #+OPTIONS: toc:nil
+
 * Historia
+#+HTML: <div class="fancy-area">
+#+HTML:     <div class="fancy"></div>
 #+ATTR_REVEAL: :frag (highlight-current-red)
 - Descoberta, contexto histórico, proporções de cresimento
+#+HTML: <div>
 * Obtenção de energia com algas
-** Resumo
-#+ATTR_REVEAL: :frag (highlight-current-green)
+** Uso de microalgas 🟢 vs macroalgas 🪸
+#+ATTR_REVEAL: :frag (highlight-current-red)
 - Estrutura menos complexa.
 - Maior taxa de crescimento.
 - Alto teor oleaginoso.
@@ -44,26 +48,26 @@ Segundo Mata el al (2009):
 
 ** Cultivo da microalga
 *** Dinâmica $CO_2$ e $O_2$
-#+ATTR_REVEAL: :frag (highlight-current-green)
+#+ATTR_REVEAL: :frag (highlight-current-red)
 - As microalgas são alimentadas com nutrientes e $CO_2$.
 - Há a reprodução delas e liberação de $O_2$.
 - Retira-se o O2, e o cultivo  passa pelo processo de "engorda".
 *** Cultivo a céu aberto (Raceway ponds)
-#+ATTR_REVEAL: :frag (highlight-current-green)
+#+ATTR_REVEAL: :frag (highlight-current-red)
 - canal de circuito fechado de recirculação.
 - cultura é alimentada continuamente na frente da roda de pás.
 - roda de pás que opera o tempo todo para impedir a sedimentação.
 - Alta contaminação.
 - Maior consumo de água.
 *** Esquemática do cultivo (Raceway ponds)
-#+ATTR_REVEAL: :frag (highlight-current-green)
+#+ATTR_REVEAL: :frag (highlight-current-red)
 - Cultivo em fotobiorreatores.
 - Tubos transparentes  montados e alinhados em postos.
 - Diâmetro do tubo é limitado porque a luz não penetra tão profundamente na cultura.
 - Chão embaixo do coletor solar é branco para.
 - Aumentar a refletância.
 * Processo de obtenção de energia da alga
-* Como funciona uma plantação de algas 
+* Como funciona uma plantação de algas
 * Economia
 * Pros e Contras
 * Contexto no mundo e no Brasil
