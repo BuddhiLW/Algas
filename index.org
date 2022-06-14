@@ -22,23 +22,28 @@
 #+AUTHOR: Pedro Branquinho
 #+OPTIONS: toc:nil
 
-* Historia
 # #+HTML: <div class="fancy-area">
 # #+HTML:     <div class="fancy"></div>
 # #+ATTR_REVEAL: :frag (highlight-current-red)
 # - Descoberta, contexto histórico, proporções de cresimento
 # #+HTML: <div>
-** Contextualização
+
+* Contextualização
+** Contextualização Fóssil
 #+ATTR_REVEAL: :frag (appear)
 1. Petróleo
 2. Carvão Mineral
 3. Gás natural
 
-São provenientes da decomposição de seres vivos e maiores responsáveis pela emissão de gases de efeito estufa.
+*São provenientes da decomposição de seres vivos e maiores responsáveis pela emissão de gases de efeito estufa.*
 ** Consequências do Efeito Estufa
 #+ATTR_REVEAL: :frag (grow)
 #+CAPTION: https://www.hypeness.com.br/2021/01/nasa-mostra-o-antes-e-o-depois-de-pontos-do-planeta-afetados-pelas-mudancas-climaticas/
 [[file:Pikachu/images/image5.png][file:./Pikachu/images/image4.png]]
+** Consequências do Efeito Estufa
+#+ATTR_REVEAL: :frag (grow)
+#+CAPTION: https://www.hypeness.com.br/2021/01/nasa-mostra-o-antes-e-o-depois-de-pontos-do-planeta-afetados-pelas-mudancas-climaticas/
+[[file:Pikachu/images/image5.png][file:./Pikachu/images/image3.png]]
 ** Cenário atual, em barras
 #+ATTR_REVEAL: :frag (grow)
 #+CAPTION: Gráfico do consumo de energia proveniente de fontes renováveis e não renováveis no Brasil e no mundo para o ano de 2019
@@ -67,6 +72,83 @@ Disponível em: [[https://brasilescola.uol.com.br/geografia/biocombustiveis-no-b
 
 Acesso em 13 de junho de 2022.
 #+HTML: </div>
+** Vantagens das microalgas:
+#+ATTR_REVEAL: :frag (highlight-current-blue)
+ 1. Não precisam ser ‘Regadas’
+ 2. Não precisam de adubos (cultivo em dejetos - suinocultura, água poluída etc.)
+ 3. A colheita pode ser diária (asazonal)
+ 4. Pode ser cultivada em diversos climas
+ 5. Pode ser cultivada em água salgada.
+* Contexto Histórico
+
+#+begin_quote
+“When you live in a false society, that bases its wealth upon money, then that society itself will collapse eventually.
+
+Not because I say so, (but) because it's not based on physical reference.”
+#+end_quote
+-- Jacque Fresco
+
+
+** 1978
+#+begin_quote
+As algas foram exploradas como combustível alternativo em 1978.
+
+Os preços da gasolina haviam disparado;
+
+As filas nos postos de ajuda eram intermináveis;
+
+O governo estava procurando um alívio da crise.
+#+end_quote
+
+** Ano, 1978?
+#+begin_quote
+O Programa de Espécies Aquáticas, dirigido pelo Laboratório Nacional de Energia Renovável (EUA), pesquisou algas com alta produção de óleo, cultivadas em tanques, utilizando CO2 residual para fazer biodiesel
+#+end_quote
+
+** Ano?
+#+begin_quote
+Japão | Research Institute of Innovative Technology (RITE) - substituindo o sistema aberto pelo cultivo em fotobiorreatores, mais intensivo, com maiores possibilidades de controle e uma maior produtividade de biomassa por área quando comparado ao sistema aberto.
+#+end_quote
+
+** No Brasil...
+** *2008*
+*** Agentes:
+#+ATTR_REVEAL: :frag (highlight-current-blue)
+- O Ministério da Ciência, Tecnologia e Inovação (MCTI),
+- Secretaria Especial de Aquicultura e Pesca (SEAP/PR) e
+- Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq),
+
+*** Iniciativa
+#+begin_quote
+  Laçaram um edital de pesquisa com o objetivo de selecionar projetos voltados para a aquicultura e uso de microalgas para a produção de biodiesel, no valor total de R$ 4,5 milhões.
+#+end_quote
+
+*** 2010
+#+begin_quote
+Outra ação do MCTI teve início em novembro de 2010, com a aprovação do Projeto
+MCT/FINEP de "Produção de biodiesel derivado de óleos de microalgas". O projeto
+reúne diferentes institutos de pesquisa como: UFSCar, UFES, UFPB, INT, UFPR,
+UFRJ, UFG, Tecpar e UFLA.
+#+end_quote
+*** Atualmente
+
+*4 no Brasil:*
+- 2 no Nordeste (foco em nutrição)
+- 2 no interior de SP atendendo indústrias de cosméticos e rações ou projetos para tratamento de efluentes.
+- Uma empresa referência no tema microalgas é a TerraVia (Solazyme).
+  + Possui unidade de produção em Orindiúva (SP).
+- A espécie de microalga não realiza fotossíntese, mas se alimenta de açúcar.
+
+*** O que dizem os produtores de tecnologia
+#+begin_quote
+“Esses mercados podem se tornar maiores e rentáveis no futuro e ainda são ativos valiosos para nós. Porém, com os níveis de preços atuais do barril de petróleo, biocombustíveis nesse momento não são o principal driver econômico para nós”
+#+end_quote
+-- Presidente da TerraVia/Bunge
+
+#+HTML: <div class="citation">
+Fonte: https://www.embrapa.br/busca-de-noticias/-/noticia/20361833/pesquisa-encontra-microalgas-que-crescem-em-residuos-e-geram-biocombustiveis
+#+HTML: </div>
+
 * Obtenção de energia com algas
 ** Uso de microalgas 🟢 vs macroalgas 🪸
 #+ATTR_REVEAL: :frag (highlight-current-red)
