@@ -23,18 +23,57 @@
 #+OPTIONS: toc:nil
 
 * Historia
-#+HTML: <div class="fancy-area">
-#+HTML:     <div class="fancy"></div>
-#+ATTR_REVEAL: :frag (highlight-current-red)
-- Descoberta, contexto histórico, proporções de cresimento
-#+HTML: <div>
+# #+HTML: <div class="fancy-area">
+# #+HTML:     <div class="fancy"></div>
+# #+ATTR_REVEAL: :frag (highlight-current-red)
+# - Descoberta, contexto histórico, proporções de cresimento
+# #+HTML: <div>
+** Contextualização
+#+ATTR_REVEAL: :frag (appear)
+1. Petróleo
+2. Carvão Mineral
+3. Gás natural
+
+São provenientes da decomposição de seres vivos e maiores responsáveis pela emissão de gases de efeito estufa.
+** Consequências do Efeito Estufa
+#+ATTR_REVEAL: :frag (grow)
+#+CAPTION: https://www.hypeness.com.br/2021/01/nasa-mostra-o-antes-e-o-depois-de-pontos-do-planeta-afetados-pelas-mudancas-climaticas/
+[[file:Pikachu/images/image5.png][file:./Pikachu/images/image4.png]]
+** Cenário atual, em barras
+#+ATTR_REVEAL: :frag (grow)
+#+CAPTION: Gráfico do consumo de energia proveniente de fontes renováveis e não renováveis no Brasil e no mundo para o ano de 2019
+[[file:Pikachu/images/image5.png][file:./Pikachu/images/image2.png]]
+** Cenário atual mundial, em pizza
+#+ATTR_REVEAL: :frag (grow)
+#+CAPTION: https://www.epe.gov.br/pt/abcdenergia/matriz-energetica-e-eletrica
+[[file:Pikachu/images/image5.png][file:./Pikachu/images/image6.png]]
+
+** Cenário atual Brasileiro, em pizza
+#+ATTR_REVEAL: :frag (grow)
+#+CAPTION: https://www.epe.gov.br/pt/abcdenergia/matriz-energetica-e-eletrica
+[[file:Pikachu/images/image5.png][file:./Pikachu/images/image1.png]]
+
+** A Soja em contraste Microalgas
+#+ATTR_REVEAL: :frag (highlight-current-red highlight-current-red highlight-current-red highlight-current-green)
+- A soja é a principal matéria-prima para a produção do biodiesel no Brasil.
+- Responsável por mais de 82% da produção de biodiesel no Brasil, de acordo com a Agência Nacional de Petróleo, Gás Natural e Biocombustíveis (ANP).
+- Produz cerca de 0,2 a 0,4 toneladas de óleo por hectare.
+- Enquanto, as microalgas produzem entre 0,1 à 0,23 toneladas de óleo por hectare.
+
+#+HTML: <div class="citation">
+ALMEIDA, Regis Rodrigues de. "Biocombustíveis no Brasil"; Brasil Escola.
+
+Disponível em: [[https://brasilescola.uol.com.br/geografia/biocombustiveis-no-brasil.htm][Brasil Escola]].
+
+Acesso em 13 de junho de 2022.
+#+HTML: </div>
 * Obtenção de energia com algas
 ** Uso de microalgas 🟢 vs macroalgas 🪸
 #+ATTR_REVEAL: :frag (highlight-current-red)
 - Estrutura menos complexa.
 - Maior taxa de crescimento.
 - Alto teor oleaginoso.
-- Maior pureza bioquimica.
+- Maior pureza bioquímica.
 
 ** Escolha da microalga
 Segundo Mata el al (2009):

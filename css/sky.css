@@ -11,13 +11,13 @@ section.has-light-background, section.has-light-background h1, section.has-light
 }
 
 @font-face {
-    font-family: symbol;
-    src: url(symbols.ttf);
+  font-family: symbol;
+  src: url(symbols.ttf);
 }
 
 @font-face {
-    font-family: file-icons;
-    src: url(file-icons.ttf);
+  font-family: file-icons;
+  src: url(file-icons.ttf);
 }
 
 .reveal a {
@@ -68,9 +68,9 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --r-author-color: #6d3f81;
   --r-secundary:#813f74 ;
   --r-tertiary: #4c3f81;
-  --r-complementary1: #81773f;
-  --r-complementary2: #81673f;
-  --r-complementary3: #74813f;
+  --r-complementary1: #ffa0fd;
+  --r-complementary2: #ffd0a0;
+  /* --r-complementary3: #74813f; */
 }
 
 .reveal-viewport {
@@ -421,49 +421,49 @@ section.has-light-background p, section.has-light-background h1, section.has-lig
 }
 
 .reveal .author {
-    font-size: var(--r-author-size);
-    color: var(--r-author-color);
+  font-size: var(--r-author-size);
+  color: var(--r-author-color);
 }
 
 li>code{
-    font-size: var(--r-code-font-li);
-    color: var(--r-complementary2);
+  font-size: var(--r-code-font-li);
+  color: var(--r-complementary2);
 }
 
 li>b{
-    color: var(--r-complementary1);
+  color: var(--r-complementary1);
 }
 
 .reveal h2{
-    color: var(--r-tertiary);
+  color: var(--r-tertiary);
 }
 
 .reveal h3{
-    color: var(--r-secundary);
+  color: var(--r-secundary);
 }
 
 .reveal del{
-    font-family: file-icons;
-    text-decoration: none;
+  font-family: file-icons;
+  text-decoration: none;
 }
 
 
 .figure-number{
-    color: #aa3333;
+  color: #aa3333;
 }
 .caption{
-    font-size:0.6em;
-    color: white;
+  font-size:0.6em;
+  /* color: white; */
 }
 
 .reveal blockquote{
-    background-color: whitesmoke;
-    color: black;
+  background-color: whitesmoke;
+  color: black;
 }
 
 .reveal .quote-background {
-    background-color: #23241f !important;
-    color: white;
+  background-color: #23241f !important;
+  color: white;
 }
 
 /* .fancy-area { */
@@ -509,39 +509,39 @@ li>b{
 /* } */
 
 
-/* .slide-background:first-of-type { */
-/*   width: 31px; */
-/*   height: 31px; */
-/*   display: grid; */
-/*   position: relative; */
-/*   border: 5px solid #efab5f99; */
-/*   transform: rotate(124.5deg); */
-/*   filter: drop-shadow(118px 0 0 #efab5f) drop-shadow(216px 0 0 #efab5f) drop-shadow(432px 0 0 #efab5f) drop-shadow(-864px 0 0 #efab5f) drop-shadow(0 -108px 0 #efab5f) drop-shadow(0 -216px 0 #efab5f) drop-shadow(0 -432px 0 #efab5f) drop-shadow(0 864px 0 #efab5f); */
-/*   animation: b 5s infinite alternate; */
-/* } */
+.slide-background:first-of-type {
+  width: 31px;
+  height: 31px;
+  display: grid;
+  position: relative;
+  border: 5px solid #efab5f99;
+  transform: rotate(124.5deg);
+  filter: drop-shadow(118px 0 0 #efab5f) drop-shadow(216px 0 0 #efab5f) drop-shadow(432px 0 0 #efab5f) drop-shadow(-864px 0 0 #efab5f) drop-shadow(0 -108px 0 #efab5f) drop-shadow(0 -216px 0 #efab5f) drop-shadow(0 -432px 0 #efab5f) drop-shadow(0 864px 0 #efab5f);
+  animation: b 5s infinite alternate;
+}
 
 
-/* .slide-background:before:first-of-type, */
-/* .slide-background:after:first-of-type { */
-/*   content: ""; */
-/*   position: absolute; */
-/*   inset: -24px auto auto -24px; */
-/*   width: 66.66%; */
-/*   height: 66.66%; */
-/*   border-radius: 0 50%; */
-/*   border: 2px solid #efab5f; */
-/*   filter: drop-shadow(57px 55px 0 #efab5f); */
-/*   animation: a 3s infinite alternate; */
-/* } */
+.slide-background:before:first-of-type,
+.slide-background:after:first-of-type {
+  content: "";
+  position: absolute;
+  inset: -24px auto auto -24px;
+  width: 66.66%;
+  height: 66.66%;
+  border-radius: 0 50%;
+  border: 2px solid #efab5f;
+  filter: drop-shadow(57px 55px 0 #efab5f);
+  animation: a 3s infinite alternate;
+}
 
-/* .slide-background:after:first-of-type { */
-/*   inset: -24px -24px auto auto; */
-/*   filter: drop-shadow(-55px 55px 0 #efab5f); */
-/*   border-radius: 50% 0; */
-/*   animation-delay: -2s; */
-/* } */
+.slide-background:after:first-of-type {
+  inset: -24px -24px auto auto;
+  filter: drop-shadow(-55px 55px 0 #efab5f);
+  border-radius: 50% 0;
+  animation-delay: -2s;
+}
 
-/* .backgrounds{ */
+/* .backgrounds:first-of-type { */
 /*   width: 95vw; */
 /*   height: 175px; */
 /*   margin: 0; */
@@ -552,22 +552,22 @@ li>b{
 /*   overflow: hidden; */
 /* } */
 
-/* @keyframes a { */
-/*   0%, 30% { */
-/*     border-radius: 50% 0; */
-/*   } */
-/*   70%, 100% { */
-/*     border-radius: 0 50%; */
-/*   } */
-/* } */
-/* @keyframes b { */
-/*   0%, 50% { */
-/*     border-radius: 0; */
-/*   } */
-/*   80%, 100% { */
-/*     border-radius: 50%; */
-/*   } */
-/* } */
+@keyframes a {
+  0%, 30% {
+    border-radius: 50% 0;
+  }
+  70%, 100% {
+    border-radius: 0 50%;
+  }
+}
+@keyframes b {
+  0%, 50% {
+    border-radius: 0;
+  }
+  80%, 100% {
+    border-radius: 50%;
+  }
+}
 
 
 @property --rotate {
@@ -598,12 +598,12 @@ h2 {
   background: #191c29;
   /* width: var(--h2-width); */
   /* display:flex; */
-  /* margin: 1000px; */
+  /* margin: 100px; */
   /* flex-direction: column; */
   /* justify-content: center; */
   /* height: var(--h2-height); */
   /* display:flex; */
-  /* justify-content: center; */
+  justify-content: center;
   padding: 3px;
   position: relative;
   border-radius: 6px;
@@ -633,11 +633,11 @@ h2::before {
   background-image: linear-gradient(
     var(--rotate)
     , #5ddcff, #3c67e3 43%, #4e00c2);
-    position: absolute;
-    z-index: -1;
-    top: -1%;
-    left: -2%;
-    animation: spin 2.5s linear infinite;
+  position: absolute;
+  z-index: -1;
+  top: -1%;
+  left: -2%;
+  animation: spin 2.5s linear infinite;
 }
 
 h2::after {
@@ -655,7 +655,7 @@ h2::after {
   background-image: linear-gradient(
     var(--rotate)
     , #5ddcff, #3c67e3 43%, #4e00c2);
-    opacity: 1;
+  opacity: 1;
   transition: opacity .5s;
   animation: spin 2.5s linear infinite;
 }
@@ -675,4 +675,17 @@ a {
   font-family: sans-serif;
   font-weight: bold;
   margin-top: 2rem;
+}
+
+.reveal .slides section .fragment.highlight-current-green.current-fragment{
+  color: var(--r-complementary2);
+}
+
+.citation{
+  font-family: Ubuntu;
+  font-size: calc(var(--r-main-font-size)/1.5);
+}
+.citation p{
+  margin: calc(var(--r-block-margin)/1.5) 0;
+  line-height: 1.3;
 }
