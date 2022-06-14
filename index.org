@@ -19,7 +19,7 @@
 
 # #+title: Produção Enxuta
 #+TITLE: Produção de Energia por Algas
-#+AUTHOR: Pedro Branquinho
+#+AUTHOR: Diego S. Durce,  Larissa C. Coelho,  Pedro G. Branquinho,  Rafael G. Cutait,  Tiago M. R. Nagata,  Vinicius A. Piunti
 #+OPTIONS: toc:nil
 
 # #+HTML: <div class="fancy-area">
@@ -58,7 +58,7 @@
 #+CAPTION: https://www.epe.gov.br/pt/abcdenergia/matriz-energetica-e-eletrica
 [[file:Pikachu/images/image5.png][file:./Pikachu/images/image1.png]]
 
-** A Soja em contraste Microalgas
+** A Soja e as Microalgas
 #+ATTR_REVEAL: :frag (highlight-current-red highlight-current-red highlight-current-red highlight-current-green)
 - A soja é a principal matéria-prima para a produção do biodiesel no Brasil.
 - Responsável por mais de 82% da produção de biodiesel no Brasil, de acordo com a Agência Nacional de Petróleo, Gás Natural e Biocombustíveis (ANP).
@@ -123,7 +123,8 @@ Japão | Research Institute of Innovative Technology (RITE) - substituindo o sis
   Laçaram um edital de pesquisa com o objetivo de selecionar projetos voltados para a aquicultura e uso de microalgas para a produção de biodiesel, no valor total de R$ 4,5 milhões.
 #+end_quote
 
-*** 2010
+** 2010
+*** Iniciativa
 #+begin_quote
 Outra ação do MCTI teve início em novembro de 2010, com a aprovação do Projeto
 MCT/FINEP de "Produção de biodiesel derivado de óleos de microalgas". O projeto
@@ -133,13 +134,14 @@ UFRJ, UFG, Tecpar e UFLA.
 *** Atualmente
 
 *4 no Brasil:*
+#+ATTR_REVEAL: :frag (highlight-current-red)
 - 2 no Nordeste (foco em nutrição)
 - 2 no interior de SP atendendo indústrias de cosméticos e rações ou projetos para tratamento de efluentes.
 - Uma empresa referência no tema microalgas é a TerraVia (Solazyme).
   + Possui unidade de produção em Orindiúva (SP).
 - A espécie de microalga não realiza fotossíntese, mas se alimenta de açúcar.
 
-*** O que dizem os produtores de tecnologia
+*** O que dizem os "investidores" em tecnologia
 #+begin_quote
 “Esses mercados podem se tornar maiores e rentáveis no futuro e ainda são ativos valiosos para nós. Porém, com os níveis de preços atuais do barril de petróleo, biocombustíveis nesse momento não são o principal driver econômico para nós”
 #+end_quote
@@ -172,24 +174,94 @@ Segundo Mata el al (2009):
 #+ATTR_REVEAL: :frag (highlight-current-red)
 - As microalgas são alimentadas com nutrientes e $CO_2$.
 - Há a reprodução delas e liberação de $O_2$.
-- Retira-se o O2, e o cultivo  passa pelo processo de "engorda".
-*** Cultivo a céu aberto (Raceway ponds)
+- Retira-se o $O_2$, e o cultivo  passa pelo processo de "engorda".
+*** Cultivo a céu aberto (=Raceway ponds=)
 #+ATTR_REVEAL: :frag (highlight-current-red)
-- canal de circuito fechado de recirculação.
-- cultura é alimentada continuamente na frente da roda de pás.
-- roda de pás que opera o tempo todo para impedir a sedimentação.
+- Canal de circuito fechado de recirculação.
+- Cultura é alimentada continuamente na frente da roda de pás.
+- Roda de pás que opera o tempo todo para impedir a sedimentação.
 - Alta contaminação.
 - Maior consumo de água.
-*** Esquemática do cultivo (Raceway ponds)
+*** Imagem esquemática, =Raceway ponds=
+#+ATTR_REVEAL: :frag (grow)
+[[file:img/imagem-lari-1.jpeg][file:./img/imagem-lari-1.jpeg]]
+
+*** Imagem demonstrativa, =Raceway ponds=
+#+ATTR_REVEAL: :frag (grow)
+[[file:img/imagem-lari-1.jpeg][file:./img/imagem-lari-1-2.jpeg]]
+
+*** Cultivo em Fotobiorreatores
 #+ATTR_REVEAL: :frag (highlight-current-red)
 - Cultivo em fotobiorreatores.
 - Tubos transparentes  montados e alinhados em postos.
 - Diâmetro do tubo é limitado porque a luz não penetra tão profundamente na cultura.
 - Chão embaixo do coletor solar é branco para.
 - Aumentar a refletância.
-* Processo de obtenção de energia da alga
-* Como funciona uma plantação de algas
+
+*** Imagem de Fotobiorreatores
+#+ATTR_REVEAL: :frag (grow)
+[[file:Pikachu/images/image5.png][file:./img/imagem-lari-3.jpeg]]
+** Obtenção da biomassa
+*** Processos
+#+ATTR_REVEAL: :frag (highlight-current-green)
+- Retirada da biomassa do meio de cultivo:
+  - Filtração;
+  - Floculação;
+  - Sedimentação.
+- Água retirada retorna ao meio de cultivo.
+- Biomassa é separada da água.
+- Biomassa restante passa por um processo de secagem.
+*** Representação fotobiorreatores e reciclagem de água
+
+#+ATTR_REVEAL: :frag (grow)
+[[file:img/imagem-lari-1.jpeg][file:./img/imagem-lari-4.jpeg]]
+
+*** Secagem da biomassa de microalgas
+
+#+ATTR_REVEAL: :frag (grow)
+[[file:img/imagem-lari-1.jpeg][file:./img/imagem-lari-5.jpeg]]
+** Geração de Energia
+*A biomassa algal é queimada para gerar energia*
+*** Esquemática geração de energia, com biomassa
+#+ATTR_REVEAL: :frag (grow)
+[[file:img/imagem-lari-1.jpeg][file:./img/imagem-lari-6.jpeg]]
+** Outros fins para a biomassa algal
+#+ATTR_REVEAL: :frag (highlight-current-red)
+- Produção de biocombustíveis.
+- Alimento para organismos como camarões e moluscos marinhos.
+*** Esquemática de cogerações da biomassa algal
+#+ATTR_REVEAL: :frag (grow)
+[[file:img/imagem-lari-1.jpeg][file:./img/imagem-lari-7.jpeg]]
 * Economia
+** Produção de Biocombustível a partir de algas
+#+begin_quote
+*Delineação da situação.*
+#+end_quote
+
+*** Fatores econômicos
+#+ATTR_REVEAL: :frag (highlight-current-red)
+- Preços em larga escala ainda são desconhecidos, existem apenas hipóteses;
+- Preço atual do biocombustível: $67,00 por galão (Solazyme, 2012);
+- Os custos variam muito com as técnicas de separação da biomassa;
+- a PBR costuma ser mais barata PRP devido a sua maior concentração de biomassa;
+- Enquanto as PBR chegam em $2,95 por kg, as PRP custam em torno de $3,80 o kg;
+
+#+HTML: <div class="citation">
+Fonte: An Overview of Algae Biofuel Production and Potential Environmental
+Impact (2012)
+#+HTML: </div>
+
+*** Fatores econômicos (cont.)
+#+ATTR_REVEAL: :frag (highlight-current-red)
+- Se a capacidade anual de produção for aumentada para 10 000 toneladas, os custos diminuem para $0,47 e $0,60 o kg para PBR e PRP, respectivamente.
+- Considerando que sejam extraídos 30% de combustível em massa e assumindo uma eficiência de 66% na conversão em biodiesel, os custos por galão seriam em torno de $8,03 (PBR) e $10,38 (PRP)
+- Atualmente o custo do galão de diesel é em torno de $5,705
+
+#+HTML: <div class="citation">
+Fonte: https://www.globalpetrolprices.com/USA/diesel_prices/
+Impact (2012)
+#+HTML: </div>
+
 * Pros e Contras
 * Contexto no mundo e no Brasil
 * Perspectiva para o futuro
