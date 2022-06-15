@@ -29,6 +29,9 @@
 # - Descoberta, contexto histórico, proporções de cresimento
 # #+HTML: <div>
 
+* QR Code
+#+ATTR_HTML: :width 500px
+[[file:img/qr-algae.png][file:./img/qr-algae.png]]
 * Contextualização
 ** Contextualização Fóssil
 #+ATTR_REVEAL: :frag (appear)
@@ -101,12 +104,12 @@ As filas nos postos de ajuda eram intermináveis;
 O governo estava procurando um alívio da crise.
 #+end_quote
 
-** Ano, 1978?
+** 1978 - 1996
 #+begin_quote
 O Programa de Espécies Aquáticas, dirigido pelo Laboratório Nacional de Energia Renovável (EUA), pesquisou algas com alta produção de óleo, cultivadas em tanques, utilizando CO2 residual para fazer biodiesel
 #+end_quote
 
-** Ano?
+** 1990
 #+begin_quote
 Japão | Research Institute of Innovative Technology (RITE) - substituindo o sistema aberto pelo cultivo em fotobiorreatores, mais intensivo, com maiores possibilidades de controle e uma maior produtividade de biomassa por área quando comparado ao sistema aberto.
 #+end_quote
@@ -286,6 +289,8 @@ Fonte: https://www.globalpetrolprices.com/USA/diesel_prices/
 #+HTML: <div class="citation">
 Fonte: https://youtu.be/yCNkmi7VE0I (set. 2016)
 #+HTML: </div>
+** Video
+#+HTML:<iframe width="1000" height="500" controls src="https://vid.puffyan.us/embed/yCNkmi7VE0I" type="video/mp4"> </iframe>
 ** Istambul, Turquia
 - Financiado pelo governo e união europeia.
 - Biocombustível e outras tecnologias.
@@ -299,26 +304,112 @@ Fonte: https://youtu.be/yCNkmi7VE0I (set. 2016)
 *** Trends - Cultivo e Processamento
 #+CAPTION: Redução do custos de cultivo e processamento em dólares por kg (2022)
 #+ATTR_REVEAL: :frag (grow)
+#+ATTR_HTML: :height 500px
 [[file:Godoi/images/image1.jpg][file:./Godoi/images/image3.jpg]]
 *** Trends - Custo Energético
 #+CAPTION: Custo energético de produção em MJ/kg (2022)
 #+ATTR_REVEAL: :frag (grow)
+#+ATTR_HTML: :height 500px
 [[file:Godoi/images/image1.jpg][file:./Godoi/images/image2.jpg]]
 
 * Pros e Contras
 ** Pros
 *** Tecnologia Holística
-*=Holística:=*
+=Holística:=
 #+begin_quote
-Adj.: Que considera o todo não somente como uma junção de suas partes; que busca entender os fenômenos por completo, inteiramente.
+Adj.: Que considera o todo, não somente como uma junção de suas partes; que busca entender os fenômenos por completo, inteiramente.
 #+end_quote
 *** Combustível, Biomassa, Nutrição e Fotossintéticas
-**** Combustíveis: gás Metano.
-**** Biomassa: produção de lipídios.
-**** Nutrição: alimentação animal.
-**** Fotossíntese:
-**** Limpeza de água poluída:
-# ***
+#+ATTR_REVEAL: :frag (highlight-current-red)
++ Combustíveis: gás Metano.
++ Biomassa: produção de lipídios.
++ Nutrição: alimentação animal e humana.
++ Fotossíntese: coletor de $CO_2$.
++ Limpeza de água poluída: integração com outros serviços ou plantas.
+
+*** Integrabilidade com =status quo=
+=status quo=:
+#+begin_quote
+Latinização de "estado das coisas", também traduzido como "ordem vigente", "estado atual das estruturas sociais que aí estão".
+#+end_quote
+
+-- *Reutilização e purificação de "água fóssil"* ([[*Artigos (cont.)][Pittman, J. K. et al]], 2011)
+
+*** El Dorado Biofuels LLC (2011)
+O CEO, em uma entrevista:
+#+begin_quote
+“I end up with about 100 barrels of water for each barrel of oil I produce.
+
+I usually just inject it back into the oil formation, but that’s very costly.
+
+It would be a big help if I can send it to an algae plant instead.”
+#+end_quote
+
+#+HTML: <div class="citation">
+Fonte: https://cla.auburn.edu/ces/energy/algae-as-energy-a-look-to-the-future/
+#+HTML: </div>
+
+*** Escala de utilidade
+De acordo com a *Natural Energy Technology Laboratory of the Department of Energy*,
+#+begin_quote
+Pequenos empresas produtoras de petróleo, como a Fulfer Oil, produzem, em média, 400 milhões de barris de água poluída, por ano.
+#+end_quote
+
+#+HTML: <div class="citation">
+Fonte: https://cla.auburn.edu/ces/energy/algae-as-energy-a-look-to-the-future/
+#+HTML: </div>
+*** Capacidade Nutritiva
+#+ATTR_HTML: :width 1000px
+[[file:img/Spirulina.png][file:./img/Spirulina.png]]
+
+*** Capacidade Nutritiva
+#+ATTR_REVEAL: :frag (highlight-current-green)
+- 15g de Spirulina = 100g de carne de vaca, em valores proteicos.
+- Ferro.
+- Cálcio.
+- Magnésio.
+- Fósforo.
+- Vitaminas A, C, R, B6, B1, B2, B3, B6, B12.
+*** Capacidade Nutritiva
+#+ATTR_HTML: :height 600px
+[[file:Godoi/images/image1.jpg][file:./img/tabela-nutritiva.png]]
+
+
+*** TerraVia e Allma
+Produção de energia *e* alga para consumo humano.
+
+#+HTML: <div class="citation">
+https://www.npr.org/sections/thesalt/2015/08/11/429985941/protein-goes-green-can-algae-become-the-next-soy
+#+HTML: </div>
+
+*** Capacidade fotossintética
+#+begin_quote
+Chlorella has been considered as a source of food and energy because its photosynthetic efficiency can reach 8%,[2] which exceeds that of other highly efficient crops such as sugar cane.
+#+end_quote
+
+#+HTML: <div class="citation">
+Zelitch, I. (1971). Photosynthesis, Photorespiration and Plant Productivity
+#+HTML: </div>
+
+*** Capacidade fotossintética (curiosidade)
+- Otto H. Warburg, Nobe em Fisiologia e Medicina, em 1931
+  + Respiração celular em Chlorella.
+- Melvin Calvin, Nobel em Química, em 1961
+  + Assimilação de $CO_2$ em plantas.
+  + Usou a Chlorella.
+
+*** Soma dos faturamentos podem ser maior
+=HIPÓTESE=:
+#+begin_quote
+Considerando todas as vertentes de negócio que uma *única* planta energética de
+algas pode ter, o lucro total pode ser maior do que fontes alternativas de energia.
+#+end_quote
+
+** Contras
+- Baixo EROI (~1.06).
+- Alto investimento inicial.
+- Não é uma fonte de */energia/* competitiva.
+- Baixo interesse de investidores, que procuram um tipo específico de investimento.
 
 * Estudo de casos (Contexto, mundo e Brasil)
 ** Sapphire Energy - Califórnia, Estados Unidos.
@@ -329,19 +420,19 @@ Adj.: Que considera o todo não somente como uma junção de suas partes; que bu
 *** Marcas
 #+ATTR_REVEAL: :frag (highlight-current-red)
 - Dos anos 2007 a 2009 mais de 250 milhões de dólares investidos.
-- 2009 - forneceu cinquenta galões de combustível para um =Toyota Prius= híbrido, que atravessou o estados unidos.
-- 2009 - forneceu combustível para o primeiro voo usando combustível derivado de algas.
-- 2017 - empresa foi vendida.
+- 2009 - Forneceu cinquenta galões de combustível para um =Toyota Prius= híbrido, que atravessou o estados unidos.
+- 2009 - Forneceu combustível para o primeiro voo usando combustível derivado de algas.
+- 2017 - Empresa foi vendida.
 ** Solix - Califórnia, Estados Unidos
 *** Aplicação
 #+ATTR_REVEAL: :frag (grow)
 [[file:Godoi/images/image1.jpg][file:./img/caso-2.png]]
 *** Marcas
 #+ATTR_REVEAL: :frag (highlight-current-red)
-- 2006 - fundação.
-- 2009 - início dos investimentos em combustível a partir da alga.
-- 2012 - construção da usina de biomassa.
-- 2021 - doação da pela Força Aérea dos EUA para ajuda nos experimentos para fazer combustível para aviação.
+- 2006 - Fundação.
+- 2009 - Início dos investimentos em combustível a partir da alga.
+- 2012 - Construção da usina de biomassa.
+- 2021 - Doação da pela Força Aérea dos EUA para ajuda nos experimentos para fazer combustível para aviação.
 ** Instambul, Tuquia
 #+begin_quote
 Primeira biorrefinaria de grande escala na Europa a transformar algas em combustíveis.
@@ -358,6 +449,31 @@ Primeira biorrefinaria de grande escala na Europa a transformar algas em combust
 - Localização: campus da Universidade Bogazici.
 - 2.500 metros quadrados.
 - Aproximadamente 1.200 toneladas de massa de algas úmidas por ano.
+** Empreendimentos mal sucedidos
+#+ATTR_REVEAL: :frag (highlight-current-red)
+- LiveFuels - Texas, Estados Unidos
+- Seambiotic - Tel Aviv, Israel
+- Solazyme - Califórnia, Estados Unidos
+- Algenol - Florida, Estados Unidos
+** Brasil
+*** Produção Comercial de Microalgas
+**** Santa Catarina
+**** Nordeste
+*** Fim da produção
+- Alimentação de organismos
+
+#+begin_quote
+Não há informações na literatura da obtenção de biomassa visando aplicações para geração de energia, mas experimentos em alguns centros de pesquisa, trabalhando isoladamente.
+#+end_quote
+** Referências
+1. https://www.euronews.com/green/2022/03/07/a-radical-carbon-negative-project-in-turkey-is-turning-algae-into-bio-jet-fuel
+2. https://www.greenprophet.com/2011/09/seabiotic-biofuel-algae/#:~:text=Seambiotic%2C%20an%20Israeli%20clean%2Dtech,the%20company%20and%20the%20environment.
+3. https://www.locus.ufv.br/bitstream/123456789/703/1/texto%20completo.pdf
+4. https://venturebeat.com/2009/09/08/sapphire-energy-launches-algae-powered-hybrid-electric-car/
+5. https://www.biofuelwatch.org.uk/2017/algenol-report/
+6. https://www.climateaction.org/news/solix_to_build_30_million_biomass_plant_for_biofuel_production
+7. https://www.solixbiosystems.com/biodiesel-from-microalgae/
+
 * Desafios e Prospecção
 ** Tabela comparativa
 # :PROPERTIES:
@@ -401,4 +517,27 @@ C. Algae screen.
 ** BIQ
 #+ATTR_REVEAL: :frag (grow)
 [[file:Godoi/images/image1.jpg][file:./img/i4.jpeg]]
+* Literatura
+** Artigos
+1. Composition, properties and challenges of algae biomass for biofuel application: An overview (2016)
+   + [[https://www.sciencedirect.com/science/article/pii/S001623611630271X][sciencedirect.com/.../S001623611630271X]]
+2. Biofuels from algae: challenges and potential (2010/2014)
+   + [[https://www.tandfonline.com/doi/abs/10.4155/bfs.10.44][tandfonline.com/.../bfs.10.44]]
+3. An Overview of Algae Biofuel Production and Potential Environmental Impact (2012)
+   + [[https://pubs.acs.org/doi/abs/10.1021/es300917r][pubs.acs.org/.../es300917r]]
+
+** Artigos (cont.)
+4. A realistic Technology and Engineering Assessment of Algae Biofuel Production (2010)
+   + [[https://digitalcommons.calpoly.edu/cenv_fac/188/][digitalcommons.calpoly.edu/.../188]]
+5. Algae biofuel: Current status and future applications (2018)
+   + [[https://www.sciencedirect.com/science/article/pii/S1364032118301552][sciencedirect.com/.../S1364032118301552]]
+6. The potential of sustainable algal biofuel production using wastewater resources (2010/2011)
+   + [[https://www.sciencedirect.com/science/article/pii/S0960852410010163][sciencedirect.com/.../S0960852410010163]]
+
+** Artigos (cont.)
+7. A review of the harvesting of micro-algae for biofuel production (2012/2013)
+   + [[https://link.springer.com/article/10.1007/s11157-012-9301-z][link.springer.com/.../s11157-012-9301-z]]
+** QR Code - drive
+#+ATTR_HTML: :width 500px
+[[file:img/qr-algae.png][file:./img/qr-algae-papers.png]]
 * Perguntas?
