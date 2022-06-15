@@ -277,7 +277,7 @@ Fonte: https://www.globalpetrolprices.com/USA/diesel_prices/
 [[file:Godoi/images/image1.jpg][file:./Godoi/images/image1.jpg]]
 
 #+ATTR_REVEAL: :frag (highlight-current-red)
-- São capazes de produzir 40 vezes mais alimento por Acre, ou seja, plantando 1000 acres de alga, 40 mil acres de culturas que não precisam ser plantadas;
+- São capazes de produzir 40 vezes mais alimento por acre, ou seja, plantando 1000 acre de alga, 40 mil acre de culturas que não precisam ser plantadas;
 - Custos muito altos durante o processo, principalmente quando se trata de produção em larga escala;
 
 ** Global Algae Innovations
