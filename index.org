@@ -291,15 +291,6 @@ Fonte: https://youtu.be/yCNkmi7VE0I (set. 2016)
 #+HTML: </div>
 ** Video
 #+HTML:<iframe width="1000" height="500" controls src="https://vid.puffyan.us/embed/yCNkmi7VE0I" type="video/mp4"> </iframe>
-** Istambul, Turquia
-- Financiado pelo governo e união europeia.
-- Biocombustível e outras tecnologias.
-- Macroalga e microalga.
-- Localização: campus da Universidade Bogazici.
-- 2.500 metros quadrados.
-- Aproximadamente 1.200 toneladas de massa de algas úmidas por ano.
-*** A planta
-
 ** Redução do custos
 *** Trends - Cultivo e Processamento
 #+CAPTION: Redução do custos de cultivo e processamento em dólares por kg (2022)
